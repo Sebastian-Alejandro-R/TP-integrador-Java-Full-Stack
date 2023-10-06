@@ -16,18 +16,19 @@ a{
 
 h2 p{
 font-family: 'Young Serif', serif;
+font-size:3vw;
 }
 
 
  p{
   font-family: 'Young Serif', serif;
-  font-weight: 200;
+  font-size:2vw;
   }
 
   
 .btn{
   font-family: 'Young Serif', serif;
-  font-weight: 200;
+  font-size:2vw;
   }
 
   body{
